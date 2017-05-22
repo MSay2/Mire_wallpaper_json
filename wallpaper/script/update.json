@@ -1,9 +1,12 @@
 {
-    "versionName": "1.0",
-    "versionCode": "1",
+    "versionName": "2.0",
+    "versionCode": "2",
     "url": "https://raw.githubusercontent.com/msay2/Mire_wallpaper_json/master/wallpaper/script/app.apk",
     "release": 
     [
-        "Première version (Initialisation)"
+        "- Ajout des permissions d'accès à la mémoire interne du téléphone",
+        "- Ajout d'un message pour quitter l'application",
+        "- Ajout de Sergey Tarasevich dans les librairies implémentées",
+        "- Ajout de Sufficiently Secure dans les librairies implémentées"
     ]
 }

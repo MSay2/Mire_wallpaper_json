@@ -1,12 +1,11 @@
 {
-    "versionName": "5.0",
-    "versionCode": "5",
+    "versionName": "6.1",
+    "versionCode": "6",
     "url": "https://raw.githubusercontent.com/msay2/Mire_wallpaper_json/master/wallpaper/script/app.apk",
     "release": 
     [
-        "- Améliorations apportées",
-        "- Suppression de la fonction Double Tap",
-        "- Ajout d'un dialogue d'options",
+        "- La palette de couleurs a était améliorée",
+        "- Ajout d'un dossier respective pour les mises à jours",
         "- Mire est OpenSource"
     ]
 }

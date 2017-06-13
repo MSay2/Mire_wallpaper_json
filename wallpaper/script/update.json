@@ -1,10 +1,9 @@
 {
-    "versionName": "7.0",
-    "versionCode": "7",
+    "versionName": "7.1",
+    "versionCode": "71",
     "url": "https://raw.githubusercontent.com/msay2/Mire_wallpaper_json/master/wallpaper/script/app.apk",
     "release": 
     [
-        "- Ajout de la traduction Anglaise",
-        "- Mire est OpenSource"
+        "- Améliorations apportées"
     ]
 }
